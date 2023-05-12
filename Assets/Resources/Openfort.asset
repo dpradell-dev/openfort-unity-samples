@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8db34de749dd54f30b3ab269fc9a7298, type: 3}
+  m_Name: Openfort
+  m_EditorClassIdentifier: 
+  PublishedKey: pk_test_1c515f17-3c80-557c-a047-2628c943c896
+  SecretKey: sk_test_e7d22e29-e337-56ce-a01e-7306bda2cf36
+  LogLevel: 0
