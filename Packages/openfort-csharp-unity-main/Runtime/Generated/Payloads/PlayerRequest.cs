@@ -11,8 +11,6 @@ namespace OpenfortSdk
     {
         public string name;
         public string description;
-        public string project;
-        public string default_account;
 
         /// <summary>
         /// Empty constructor is for use in generics with where: new()
@@ -21,12 +19,10 @@ namespace OpenfortSdk
         {
         }
 
-        public PlayerRequest(string name, string description, string project, string default_account)
+        public PlayerRequest(string name, string description)
         {
             this.name = name;
             this.description = description;
-            this.project = project;
-            this.default_account = default_account;
         }
 
         public override string ToString()
